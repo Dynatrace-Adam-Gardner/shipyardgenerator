@@ -14,3 +14,11 @@ pip install pyyaml
 pip install num2words
 python shipyardgenerator.py
 ```
+
+## Notes
+
+Not currently compatible with the following (PRs welcome):
+
+- `properties`
+- `triggeredOn`
+- `triggeredAfter`
